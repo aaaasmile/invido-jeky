@@ -26,3 +26,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+#gem 'RedCloth', "~> 4.3.2" # non si può usare
+gem 'redcarpet', "~> 3.4.0"
