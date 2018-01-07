@@ -6,7 +6,8 @@ permalink: /about/
 
 ### Qualche nota sull'autore
 
-!images/me_200.JPG!
+<img border="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" src="{{"/assets/images/me_200.JPG" | absolute_url }}" />
+
 
 Mi chiamo Igor e mi occupo di software. Da qualche anno vivo e
 lavoro nella capitale austriaca in pianta stabile. 
@@ -27,7 +28,7 @@ Quando di tanto in tanto ritorno a Breda, mi diverto a guardare le partite di ca
 la _Mariasa_, la _briscula scuperta_, briscola in 4 e tressette.
 
 Qui a Vienna, invece, niente carte ma altre attività ricreative, come la corsa o la bici, un capitolo a parte
-descritto nel mio "blog":http://stesosopra.blogspot.co.at/.
+descritto nel mio [blog sulla corsa](http://stesosopra.blogspot.co.at/).
 
 
 ### Impressum
