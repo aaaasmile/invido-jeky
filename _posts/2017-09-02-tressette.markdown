@@ -7,10 +7,10 @@ abstract: Dopo aver settato una Virtual Machine con il mitico Windows XP, ho rit
 ---
 
 {% capture imageurl %}
-{{"/assets/images/posts/triset-credits.PNG" | absolute_url }}
+{{"/assets/images/posts/triset-welcome.PNG" | absolute_url }}
 {% endcapture %}
 
-{% include left-picture.html filename=imageurl %}
+{% include left-picture.html filename=imageurl caption="Tressette schermata iniziale" %}
 
 Dopo aver settato una Virtual Machine con il mitico Windows XP, ho ritrovato il feeling per creare una nuova versione del programma 
 [Tressette][tre-download], che sotto `Windows 10` non riusciva a salvare 
