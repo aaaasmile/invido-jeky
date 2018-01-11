@@ -1,0 +1,56 @@
+﻿---
+directory_name: Progetto Cuperativa
+title: Mariazza
+in_menu: true
+sort_info: 201
+---
+
+h2. La Mariazza
+
+
+h3. Il video di come si gioca
+
+<div class="iframe-wrapper">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H7ahL_4IvOI" frameborder="0" allowfullscreen></iframe>.
+</div>
+
+h3. Le regole
+
+La Mariazza, oppure in dialetto bredese la _Mariasa_, funziona un po' come la briscola. 
+Si usano le stesse carte, valgono gli stessi punti e le stesse regole per la presa.
+Il gioco inserito nella cuperativa è quello della versione a 2 giocatori di come si gioca a Breda.
+
+La differenza con la briscola, sta nel fatto che le carte in mano ad un giocatore
+sono 5 invece di 3. Poi, come il nome gioco prevede, ogni giocatore può dichiarare
+durante il gioco "la Mariazza". Per dichiarare una mariazza occorre avere un cavallo ed un re
+dello stesso segno. Per esempio il cavallo e il re di denari sono la
+"Mariazza di denari" o alla bredese: _mariasa at dinèr_.
+
+La Mariazza si dichiara quando si è di mano, ma assegna i punti solo quando
+si è primi di mano. Vale a dire non si fanno i punti di dichiarazione fin tanto che non si prende.
+Normalmente la dichiarazione della Mariazza vale 20 punti, se però è dello stesso seme della briscola, ne vale 40.
+La partita finisce immediatamente, quando uno dei due giocatori raggiunge o supera i 41 punti, o con una presa o con
+l'assegnazione dei punti di una dichiarazione. Di seconda mano, anche se si dichiara una mariazza ma non si prende,
+non si possono mai marcare punti e quindi superare i 41 punti.
+
+_Esempio_. Mario ha 30 punti ed è di primo di mano, il Toro ne ha 40 ed ha in mano una mariazza di briscola. 
+Mario gioca l'asso di briscola e vince automaticamente, 
+anche se l'avversario è a 40 punti e dichiara la mariazza di briscola da 40 punti.
+Siccome il Toro non può prendere l'asso di briscola, non può ancora realizzare i punti di dichiarazione rimanendo a 40 fino a quando 
+non effettuerà una presa, che però non potrà arrivare.
+Così la partita si conclude 41-40 per Mario con grosso rammarico del Toro. 
+
+Un' altra particolarità è il fatto che il 7 di briscola lo si può scambiare,
+se si vuole, con la briscola in tavola.
+
+<a href="{relocatable: /images/cuperativa/Mariazza_1_2_6.JPG}"><img width="250" src="{relocatable: /images/cuperativa/Mariazza_1_2_6.JPG}"></a>
+
+
+h3. Consigli e strategie di gioco
+
+Si fa molto alla svelta a raggiungere i 41 punti, quindi bisogna fare in modo di non far strozzare
+l'avversario. Meglio non partire di prima mano. Giocare cavalli e re senza dichiarare
+la mariazza vuol dire perdere la possibilità di fare punti con la dichiarazione,
+quindi bisogna giocarli solo quando si è costretti.
+Per esempio, dichiarare la mariazza di briscola da 40 punti e prendere di re,
+vuol dire vincere la partita in un colpo solo.
