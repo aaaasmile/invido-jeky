@@ -1,11 +1,9 @@
 ﻿---
-directory_name: Progetti
+layout: page
 title: Progetto Invido
-in_menu: true
-sort_info: 63
 ---
 
-h2. Invido
+## Invido
 
 <img src="{relocatable: /images/invido/in_partita_small.jpg}">
 

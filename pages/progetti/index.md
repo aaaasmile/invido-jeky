@@ -1,8 +1,8 @@
 ﻿---
-directory_name: Progetti
 title: Progetti Software
-in_menu: true
-sort_info: 60
+layout: page
+permalink: index.html
+folder: progetti
 ---
 
 h2. Elenco dei progetti software
